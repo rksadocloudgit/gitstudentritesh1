@@ -1,3 +1,4 @@
 remote-file1
 changes on local repo1
 remote changes2
+local change2 on remote-file1
